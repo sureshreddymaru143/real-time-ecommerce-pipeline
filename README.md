@@ -1,8 +1,8 @@
-Real-Time E-Commerce Sales Pipeline Project
+**Real-Time E-Commerce Sales Pipeline Project
 
 This project shows how to build a complete data pipeline using AWS services and Power BI. It starts with raw sales data in CSV format and ends with a working dashboard that gives useful business insights.
 
-Main Steps:
+**Main Steps:
 
 Uploaded raw sales data to S3 under the "raw" folder
 
@@ -20,7 +20,7 @@ Imported the CSV into Power BI and built a full dashboard
 
 Exported the dashboard to PDF and saved the Power BI (.pbix) file
 
-Tools Used:
+**Tools Used:
 
 AWS S3
 
@@ -48,7 +48,7 @@ Customer vs product breakdown (matrix and stacked bar)
 
 Filters using slicers
 
-Project Structure:
+**Project Structure:
 
 Ingestion folder for raw CSV files
 
@@ -62,7 +62,7 @@ reports folder with Power BI .pbix file
 
 README file describing the full pipeline
 
-About Me:
+**About Me:
 
 I am a data engineer with hands-on experience in building cloud-based data pipelines using AWS and Azure, and in developing business dashboards in Power BI. I focus on creating scalable, end-to-end solutions that transform raw data into actionable insights.
 This project demonstrates my ability to work across data ingestion, transformation, querying, and reporting layers using real-world tools and workflows.
